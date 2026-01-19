@@ -42,7 +42,6 @@ local Library = {
 LibraryUI.Name = "LibraryUI"
 LibraryUI.Parent = game:GetService("CoreGui")
 LibraryUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-LibraryUI.BackgroundTransparency = 1
 
 Holder.Name = "Holder"
 Holder.Parent = LibraryUI
